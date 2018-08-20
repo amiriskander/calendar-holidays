@@ -9,5 +9,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "CalendarHolidays\\": "src/"
+            }
+	}
+    }
 }
