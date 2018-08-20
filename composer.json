@@ -1,0 +1,13 @@
+{
+    "name": "aiskander/calendar-holidays",
+    "description": "PHP package that manages or calculates calendar holidays",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Amir Iskander",
+            "email": "amir@amiriskander.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
