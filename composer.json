@@ -10,7 +10,7 @@
         }
     ],
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "php": "^7.2"
     },
